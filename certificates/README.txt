@@ -1,0 +1,1 @@
+Place your course certificate image or PDF here.
