@@ -30,13 +30,8 @@ robot-framework-selenium-level1/
 ✅ What I Learned
 
 Installation & setup of Robot Framework and SeleniumLibrary
-
 Writing simple & structured .robot test cases
-
 Using Selenium to interact with web elements
-
 Defining reusable keywords and variables
-
 Executing test cases and analyzing logs
-
 Best practices for maintainable test automation
